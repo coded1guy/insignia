@@ -1,0 +1,9 @@
+.container {
+  width: 100%;
+  max-width: 1000px;
+  max-height: 1000px;
+  margin: 10% auto;
+  border: 1px solid #202020;
+  overflow: scroll;
+}
+
